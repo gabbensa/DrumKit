@@ -17,31 +17,56 @@ footer {
 }
 
 .w {
-
+  background: url('images/tom1.png');
+  background-size: contain;  /* Fit image inside */
+  background-repeat: no-repeat; /* No tiling */
+  background-position: center;
+  
 }
 
 .a {
-
+  background: url('images/tom2.png');
+  background-size: contain;  /* Fit image inside */
+  background-repeat: no-repeat; /* No tiling */
+  background-position: center;
 }
 
 .s {
+  background: url('images/tom3.png');
+  background-size: contain;  /* Fit image inside */
+  background-repeat: no-repeat; /* No tiling */
+  background-position: center;
 
 }
 
 .d {
+  background: url('images/tom4.png');
+  background-size: contain;  /* Fit image inside */
+  background-repeat: no-repeat; /* No tiling */
+  background-position: center;
 
 }
 
 .j {
+  background: url('images/crash.png');
+  background-size: contain;  /* Fit image inside */
+  background-repeat: no-repeat; /* No tiling */
+  background-position: center;
 
 }
 
 .k {
-
+  background: url('images/kick.png');
+  background-size: contain;  /* Fit image inside */
+  background-repeat: no-repeat; /* No tiling */
+  background-position: center;
 }
 
 .l {
-
+  background: url('images/snare.png');
+  background-size: contain;  /* Fit image inside */
+  background-repeat: no-repeat; /* No tiling */
+  background-position: center;
 }
 
 .set {
